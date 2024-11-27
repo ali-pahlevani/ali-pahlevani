@@ -4,6 +4,7 @@ Currently, I am concentrating on SLAM and Sensor Fusion for AMRs, particularly i
 I have a passion for Optimization Algorithms, particularly Heuristics, which I’ve successfully applied to control, filtering, navigation, and planning in both aerial and ground vehicles. I’ve also implemented control strategies like sliding mode control (SMC) and model predictive control (MPC), and gained experience with machine learning algorithms in both theory and practice.
 As I prepare to begin my Ph.D., I am eager to broaden my research and contribute to advancements in autonomous systems.
 
+---
 
 **Robotics Engineer**
 * **Math** Geek
