@@ -32,10 +32,10 @@
 + Machine Learning
 
 ## Let's See
-- 🔭 I’m currently accepting freelance projects (ROS, Gazebo (Simulation), Design, and Consulting)
-- 🌱 Besides, I'm working on my own VIO-SLAM module
-- 💬 Also, I am ready for starting a new position as a PhD student
-- 📫 Feel free to reach out to me at: a.pahlevani1998@gmail.com 
+- 🔭 I’m currently accepting **freelance projects** (ROS, Gazebo (Simulation), Design, and Consulting)
+- 🌱 Besides, I'm working on my own **VIO-SLAM module**
+- 💬 Also, I am ready for starting a new position as a **PhD student**
+- 📫 Feel free to **reach out** to me at: **a.pahlevani1998@gmail.com** 
 - 😄 Life is beautiful, isn't it??
 
 ##
