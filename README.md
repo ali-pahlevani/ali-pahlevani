@@ -9,14 +9,14 @@
 
 ---
 ## More on Me
-* Math Geek
-* Enjoy working on:
+* **Math** Geek
+* Enjoy **working on**:
     - Sensor Fusion
     - Control
     - Navigation
     - VIO
     - ML
-* Main Fields:
+* **Main** Fields:
     - VIO
     - SLAM
     - Sensor Fusion
