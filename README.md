@@ -1,7 +1,12 @@
 # Ali Pahlevani
 **Robotics Engineer**
-* Math Geek
-* Enjoy working on: Sensor Fusion, Control, Navigation, VIO, and ML
+* **Math** Geek
+* Enjoy working on:
+    - Sensor Fusion
+    - Control
+    - Navigation
+    - VIO
+    - ML
 * Main Fields: VIO, SLAM, and Sensor Fusion
 * Love both "Coding" and "Building"
 
