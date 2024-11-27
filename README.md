@@ -5,14 +5,15 @@ I have a passion for Optimization Algorithms, particularly Heuristics, which Iâ€
 As I prepare to begin my Ph.D., I am eager to broaden my research and contribute to advancements in autonomous systems.
 
 ---
-* **Math** Geek
+## More on Me
+* Math Geek
 * Enjoy working on:
     - Sensor Fusion
     - Control
     - Navigation
     - VIO
     - ML
-* **Main** Fields:
+* Main Fields:
     - VIO
     - SLAM
     - Sensor Fusion
