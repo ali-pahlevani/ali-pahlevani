@@ -35,10 +35,10 @@
 </div>
 
 ## Engineering Skills
-+ Navigation
-+ Control
-+ Optimization
-+ Machine Learning
++ Navigation (VO | VIO | SLAM | Path Planning | Autonomous Navigation | Obstacle Avoidance)
++ Control (PID | SMC | Modern | MPC | Robust | Data-Driven)
++ Optimization (Analytical (SD, GN, LM, etc.) | Meta-heuristic (GA, PSO, ICA, ACO, etc.))
++ Machine Learning (Classical (KNN, RF, Lin. Reg., Log. Reg., etc.) | Deep (MLP, CNN, RNN, etc.))
 
 ## Let's See
 - 🔭 I’m currently accepting **freelance projects** (ROS, Gazebo (Simulation), Design, and Consulting)
