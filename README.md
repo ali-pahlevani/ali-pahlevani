@@ -10,20 +10,6 @@
 - As I prepare to begin my Ph.D., I am eager to broaden my research and contribute to advancements in autonomous systems.
 
 ---
-## More on Me
-* **Math** Geek
-* Enjoy **working on**:
-    - Sensor Fusion
-    - Control
-    - Navigation
-    - VIO
-    - ML
-* **Main** Fields:
-    - VIO
-    - SLAM
-    - Sensor Fusion
-* Love both **"Coding"** and **"Building"**
-
 ## Programming Skills
 <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cpp" width="40" height="40"/>
@@ -50,4 +36,19 @@
 - 😄 Life is beautiful, isn't it??
 
 ##
+---
+## More on Me
+* **Math** Geek
+* Enjoy **working on**:
+    - Sensor Fusion
+    - Control
+    - Navigation
+    - VIO
+    - ML
+* **Main** Fields:
+    - VIO
+    - SLAM
+    - Sensor Fusion
+* Love both **"Coding"** and **"Building"**
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ali-pahlevani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-pahlevani/)  
