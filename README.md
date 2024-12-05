@@ -1,3 +1,6 @@
+![LinkedIn_Banner](https://github.com/user-attachments/assets/b00dcedc-5f64-4166-b088-901736dc74a6)
+
+
 # Ali Pahlevani (Robotics Engineer)
 - Over the past few years, I have focused on improving the observability of the heading angle in quadrotors within GPS-denied environments through my MS thesis, using the MSCKF method as the base VIO algorithm. During this time, I gained hands-on experience with drones and VIO modules, developing a VIO system with Jetson Nano, the IMX219 stereo camera, and other hardware for VIO and SLAM tasks.
 
