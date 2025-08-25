@@ -1,6 +1,6 @@
 ![LinkedIn_Banner](https://github.com/user-attachments/assets/b00dcedc-5f64-4166-b088-901736dc74a6)
 
-# Ali Pahlevani (Freelance Robotics Software Engineer | SLAM & Navigation)
+# Ali Pahlevani (Robotics Software Engineer)
 
 Hi, I’m **Ali**,  
 a **Freelance Robotics Software Engineer** specializing in **SLAM, Autonomous Navigation, and Motion Planning**.  
@@ -11,7 +11,6 @@ I’ve also contributed to the **ROS community** and taught courses on **SLAM**,
 I collaborate with companies, research groups, and startups to design and deliver **innovative robotics solutions** tailored to their needs.  
 While I am also laying the foundation for **SLAMbotics**, my focus remains on applying my expertise directly to impactful **projects**.
 
----
 
 ## 🔑 Key Expertise
 - ✅ **Sensor Fusion** for improved localization and mapping  
@@ -21,11 +20,7 @@ While I am also laying the foundation for **SLAMbotics**, my focus remains on ap
 - ✅ Designing and implementing robot **interfaces**  
 - ✅ Robotics **simulations** in Gazebo and NVIDIA Isaac Sim  
 
----
-
 I’m available for *collaborations* and *freelance projects* where **cutting-edge SLAM and Navigation solutions** are required.  
-
----
 
 ## 📬 Contact
 - 📧 **Email:** a.pahlevani1998@gmail.com  
@@ -33,7 +28,6 @@ I’m available for *collaborations* and *freelance projects* where **cutting-ed
 - 🌐 **GitHub:** [github.com/ali-pahlevani](https://github.com/ali-pahlevani)  
 - 🔗 **LinkedIn:** [linkedin.com/in/ali-pahlevani](https://linkedin.com/in/ali-pahlevani)  
 - 🧩 **Website:** [www.SLAMbotics.org](https://www.SLAMbotics.org)  
-
 
 ---
 ## Programming Skills
