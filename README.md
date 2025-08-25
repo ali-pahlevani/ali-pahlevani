@@ -22,14 +22,6 @@ While I am also laying the foundation for **SLAMbotics**, my focus remains on ap
 
 I’m available for *collaborations* and *freelance projects* where **cutting-edge SLAM and Navigation solutions** are required.  
 
-## 📬 Contact
-- 📧 **Email:** a.pahlevani1998@gmail.com  
-- 📱 **WhatsApp:** [wa.me/989138648681](https://wa.me/989138648681)  
-- 🌐 **GitHub:** [github.com/ali-pahlevani](https://github.com/ali-pahlevani)  
-- 🔗 **LinkedIn:** [linkedin.com/in/ali-pahlevani](https://linkedin.com/in/ali-pahlevani)  
-- 🧩 **Website:** [www.SLAMbotics.org](https://www.SLAMbotics.org)  
-
----
 ## Programming Skills
 <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cpp" width="40" height="40"/>
@@ -43,5 +35,12 @@ I’m available for *collaborations* and *freelance projects* where **cutting-ed
 </div>
 
 ##
+
+## 📬 Contact
+- 📧 **Email:** a.pahlevani1998@gmail.com  
+- 📱 **WhatsApp:** [wa.me/989138648681](https://wa.me/989138648681)  
+- 🌐 **GitHub:** [github.com/ali-pahlevani](https://github.com/ali-pahlevani)  
+- 🔗 **LinkedIn:** [linkedin.com/in/ali-pahlevani](https://linkedin.com/in/ali-pahlevani)  
+- 🧩 **Website:** [www.SLAMbotics.org](https://www.SLAMbotics.org)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ali-pahlevani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-pahlevani/)  
