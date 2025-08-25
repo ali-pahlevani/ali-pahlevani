@@ -34,7 +34,7 @@ I’m available for *collaborations* and *freelance projects* where **cutting-ed
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/>
 </div>
 
-## 📬 Contact
+## Contact
 - 📧 **Email:** a.pahlevani1998@gmail.com  
 - 📱 **WhatsApp:** [wa.me/989138648681](https://wa.me/989138648681)  
 - 🌐 **GitHub:** [github.com/ali-pahlevani](https://github.com/ali-pahlevani)  
