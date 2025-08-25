@@ -1,13 +1,28 @@
 ![LinkedIn_Banner](https://github.com/user-attachments/assets/b00dcedc-5f64-4166-b088-901736dc74a6)
 
-# Ali Pahlevani (Robotics/SLAM Engineer)
-- Over the past few years, I have focused on improving the observability of the heading angle in quadrotors within GPS-denied environments through my MS thesis, using the MSCKF method as the base VIO algorithm. During this time, I gained hands-on experience with drones and VIO modules, developing a VIO system with Jetson Nano, the IMX219 stereo camera, and other hardware for VIO and SLAM tasks.
+# Ali Pahlevani (Freelance Robotics Software Engineer | SLAM & Navigation)
+Hi, I’m 𝗔𝗹𝗶,
+a 𝗙𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 specializing in 𝗦𝗟𝗔𝗠, 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻, and 𝗠𝗼𝘁𝗶𝗼𝗻 𝗣𝗹𝗮𝗻𝗻𝗶𝗻𝗴. I have worked with a wide range of SLAM packages, developed systems for robots with unique kinematics, and built robust solutions using 𝗥𝗢𝗦𝟮, 𝗖++, and 𝗣𝘆𝘁𝗵𝗼𝗻.
 
-- Currently, I am concentrating on SLAM and Sensor Fusion for AMRs, particularly in indoor, dynamic environments. I focus on fusing Visual, LiDAR, IMU, and Encoder data to enhance Localization and Mapping, while reducing system Covariance through AI-driven methods. This work is deepening my expertise in ROS2, Gazebo, C++, and Linux. Applying algorithms and coding to real-world projects is incredibly satisfying.
+I’ve also contributed to the 𝗥𝗢𝗦 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 and taught courses on 𝗦𝗟𝗔𝗠, sharing my knowledge with other robotics engineers.
 
-- I have a passion for Optimization Algorithms, particularly Heuristics, which I’ve successfully applied to control, filtering, navigation, and planning in both aerial and ground vehicles. I’ve also implemented control strategies like sliding mode control (SMC) and model predictive control (MPC), and gained experience with machine learning algorithms in both theory and practice.
+I collaborate with companies, research groups, and startups to design and deliver 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝗿𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 tailored to their needs. While I am also laying the foundation for 𝗦𝗟𝗔𝗠𝗯𝗼𝘁𝗶𝗰𝘀, my focus remains on applying my expertise directly to impactful 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
 
-- As I prepare to begin my Ph.D., I am eager to broaden my research and contribute to advancements in autonomous systems.
+🔑 𝗞𝗲𝘆 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲
+✅ 𝗦𝗲𝗻𝘀𝗼𝗿 𝗙𝘂𝘀𝗶𝗼𝗻 for improved localization and mapping
+✅ Integration of 𝗦𝗟𝗔𝗠 and 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻 frameworks
+✅ Development for mobile robots with unique 𝗸𝗶𝗻𝗲𝗺𝗮𝘁𝗶𝗰𝘀
+✅ Working with 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝗶𝗮𝗹 mobile robots, sensors, and motors (control, deployment, and integration)
+✅ Designing and implementing robot 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲𝘀
+✅ Robotics 𝘀𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀 in Gazebo and NVIDIA Isaac Sim
+
+I’m available for "𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙤𝙣𝙨" and "𝙛𝙧𝙚𝙚𝙡𝙖𝙣𝙘𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨" where 𝗰𝘂𝘁𝘁𝗶𝗻𝗴-𝗲𝗱𝗴𝗲 𝗦𝗟𝗔𝗠 𝗮𝗻𝗱 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 are required.
+
+📧 𝗘𝗺𝗮𝗶𝗹: a.pahlevani1998@gmail.com
+📱 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: wa.me/989138648681
+🌐 𝗚𝗶𝘁𝗛𝘂𝗯: github.com/ali-pahlevani
+🔗 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻: linkedin.com/in/ali-pahlevani
+🧩 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: www.SLAMbotics.org
 
 ---
 ## Programming Skills
