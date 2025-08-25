@@ -42,19 +42,6 @@ I’m available for *collaborations* and *freelance projects* where **cutting-ed
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/>
 </div>
 
-## Engineering Skills
-+ Navigation (VO | VIO | SLAM | Path Planning | Autonomous Navigation | Obstacle Avoidance)
-+ Control (PID | SMC | Modern | MPC | Robust | Data-Driven)
-+ Optimization (Analytical (SD, GN, LM, etc.) | Meta-heuristic (GA, PSO, ICA, ACO, etc.))
-+ Machine Learning (Classical (KNN, RF, Lin. Reg., Log. Reg., etc.) | Deep (MLP, CNN, RNN, etc.))
-
-## Let's See
-- 🔭 I’m currently accepting **freelance projects** (ROS, Gazebo (Simulation), Design, and Consulting)
-- 🌱 Besides, I'm working on my own **VIO-SLAM module**
-- 💬 Also, I am ready for starting a new position as a **PhD student**
-- 📫 Feel free to **reach out** to me at: **a.pahlevani1998@gmail.com** 
-- 😄 Life is beautiful, isn't it??
-
 ##
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ali-pahlevani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-pahlevani/)  
