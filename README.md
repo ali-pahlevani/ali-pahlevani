@@ -37,7 +37,7 @@ I’m available for *collaborations* and *freelance projects* where **cutting-ed
 
 ## Contact
 - 📧 **Email:** a.pahlevani1998@gmail.com  
-- 📱 **WhatsApp:** [wa.me/989138648681](https://wa.me/989138648681)  
+- 📱 **WhatsApp:** [wa.me/905015915322](https://wa.me/905015915322)  
 - 🌐 **GitHub:** [github.com/ali-pahlevani](https://github.com/ali-pahlevani)  
 - 🔗 **LinkedIn:** [linkedin.com/in/ali-pahlevani](https://linkedin.com/in/ali-pahlevani)  
 ---
