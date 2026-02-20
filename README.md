@@ -1,4 +1,4 @@
-![LinkedIn_Banner](https://github.com/user-attachments/assets/b00dcedc-5f64-4166-b088-901736dc74a6)
+![LinkedIn_Banner](https://github.com/user-attachments/assets/4710efa8-1874-4e76-8fd6-5f8289b81a2c)
 
 # Ali Pahlevani (Robotics Software Engineer)
 
