@@ -9,7 +9,8 @@ I have worked with a wide range of SLAM packages, developed systems for robots w
 I’ve also contributed to the **ROS community** and taught courses on **SLAM**, sharing my knowledge with other robotics engineers.
 
 I collaborate with companies, research groups, and startups to design and deliver **innovative robotics solutions** tailored to their needs.  
-While I am also laying the foundation for **SLAMbotics**, my focus remains on applying my expertise directly to impactful **projects**.
+While I always try to stay at the cutting edge of my field, my main focus remains on applying my knowledge and skills to
+impactful projects that push the boundaries of autonomous robotics.
 
 
 ## Key Expertise
@@ -39,6 +40,5 @@ I’m available for *collaborations* and *freelance projects* where **cutting-ed
 - 📱 **WhatsApp:** [wa.me/989138648681](https://wa.me/989138648681)  
 - 🌐 **GitHub:** [github.com/ali-pahlevani](https://github.com/ali-pahlevani)  
 - 🔗 **LinkedIn:** [linkedin.com/in/ali-pahlevani](https://linkedin.com/in/ali-pahlevani)  
-- 🧩 **Website:** [www.SLAMbotics.org](https://www.SLAMbotics.org)  
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ali-pahlevani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-pahlevani/)  
