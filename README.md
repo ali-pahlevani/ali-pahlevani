@@ -36,9 +36,11 @@ I’m available for *collaborations* and *freelance projects* where **cutting-ed
 </div>
 
 ## Contact
-- 📧 **Email:** a.pahlevani1998@gmail.com  
-- 📱 **WhatsApp:** [wa.me/905015915322](https://wa.me/905015915322)  
-- 🌐 **GitHub:** [github.com/ali-pahlevani](https://github.com/ali-pahlevani)  
-- 🔗 **LinkedIn:** [linkedin.com/in/ali-pahlevani](https://linkedin.com/in/ali-pahlevani)  
+- 📧 **Email-1:** a.pahlevani1998@gmail.com
+- 📧 **Email-2:** a.pahlevani2050@gmail.com
+- 📱 **WhatsApp:** [wa.me/905015915322](https://wa.me/905015915322)
+- 🌐 **Portfolio:** [ali-pahlevani.github.io](https://ali-pahlevani.github.io)
+- 🌐 **GitHub:** [github.com/ali-pahlevani](https://github.com/ali-pahlevani)
+- 🌐 **LinkedIn:** [linkedin.com/in/ali-pahlevani](https://linkedin.com/in/ali-pahlevani)
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ali-pahlevani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-pahlevani/)  
