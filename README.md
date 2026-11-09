@@ -14,12 +14,12 @@ impactful projects that push the boundaries of autonomous robotics.
 
 
 ## Key Expertise
-- ✅ **Sensor Fusion** for improved localization and mapping  
-- ✅ Integration of **SLAM and Navigation frameworks**  
-- ✅ Development for mobile robots with unique **kinematics**  
-- ✅ Working with **industrial mobile robots, sensors, and motors** (control, deployment, and integration)  
-- ✅ Designing and implementing robot **interfaces**  
-- ✅ Robotics **simulations** in Gazebo and NVIDIA Isaac Sim  
+- ✅ **Sensor Fusion** for improved localization and mapping
+- ✅ Integration of **SLAM and Navigation frameworks**
+- ✅ Development for mobile robots with unique **kinematics**
+- ✅ Working with **industrial mobile robots, sensors, and motors**
+- ✅ Designing and implementing robot **interfaces**
+- ✅ Robotics **simulations** in Gazebo and NVIDIA Isaac Sim
 
 ## Programming Skills
 <div>
