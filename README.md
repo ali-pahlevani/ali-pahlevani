@@ -34,7 +34,7 @@ impactful projects that push the boundaries of autonomous robotics.
 </div>
 
 ## Contact
-- 📧 **Email:** a.pahlevani2050@gmail.com
+- 📧 **Email:** a.pahlevani1998@gmail.com
 - 🌐 **Portfolio:** [ali-pahlevani.github.io](https://ali-pahlevani.github.io)
 - 🌐 **GitHub:** [github.com/ali-pahlevani](https://github.com/ali-pahlevani)
 - 🌐 **LinkedIn:** [linkedin.com/in/ali-pahlevani](https://linkedin.com/in/ali-pahlevani)
