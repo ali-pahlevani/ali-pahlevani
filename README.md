@@ -3,7 +3,7 @@
 # Ali Pahlevani (Robotics Software Engineer)
 
 Hi, I’m **Ali**,  
-a **Freelance Robotics Software Engineer** specializing in **SLAM, Autonomous Navigation, and Motion Planning**.  
+a **Robotics Software Engineer** specializing in **SLAM, Autonomous Navigation, and Motion Planning**.  
 I have worked with a wide range of SLAM packages, developed systems for robots with unique kinematics, and built robust solutions using **ROS2, C++, and Python**.
 
 I’ve also contributed to the **ROS community** and taught courses on **SLAM**, sharing my knowledge with other robotics engineers.
