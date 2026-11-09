@@ -21,8 +21,6 @@ impactful projects that push the boundaries of autonomous robotics.
 - ✅ Designing and implementing robot **interfaces**  
 - ✅ Robotics **simulations** in Gazebo and NVIDIA Isaac Sim  
 
-I’m available for *collaborations* and *freelance projects* where **cutting-edge SLAM and Navigation solutions** are required.  
-
 ## Programming Skills
 <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cpp" width="40" height="40"/>
